@@ -1,0 +1,12 @@
+torch 
+torchvision 
+torchaudio 
+ultralytics 
+pillow 
+pytesseract 
+numpy 
+opencv-python 
+matplotlib
+scikit-learn 
+matplotlib 
+transformers 
